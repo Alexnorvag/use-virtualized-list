@@ -18,4 +18,4 @@ cd react-hooks-introduction
 yarn install
 yarn start
 ```
-Visit `http://localhost:3000`
+Visit [localhost](http://localhost:3000)
